@@ -1,2 +1,2 @@
 # Telecom-Churn-Analysis
-Power BI report for doing data analysis on Telecom Churn data.
+Power BI report of data analysis done on Telecom Churn data.
